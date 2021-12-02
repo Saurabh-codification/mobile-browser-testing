@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FormTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be3155c1-0f46-4574-a9fc-23e1452fc08f</testCaseGuid>
+   <variable>
+      <defaultValue>'Saurabh'</defaultValue>
+      <description></description>
+      <id>2737dc07-e223-46a6-8520-2f4379f1f42e</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dhingra'</defaultValue>
+      <description></description>
+      <id>375b1a98-6142-463f-b43e-4eee647dfa37</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'saurabh.d2106@gmail.com'</defaultValue>
+      <description></description>
+      <id>3d8bb8ea-b17a-4f63-bce5-eb682c9f1e05</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
